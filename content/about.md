@@ -7,15 +7,15 @@ I am a #AWS #All9 certified Cloud Architect at Ippon Technologies. My field of e
 
 # Certifications
 
-![CloudPractitioner](/images/aws-cloud-practitioner.png =50x50)
-![Developer](/images/aws-developer.png =50x50)
-![SysOps](/images/aws-sysops-administrator.png =50x50)
-![SolutionArchitectAssociate](/images/aws-solutions-architect-associate.png =50x50)
-![SolutionArchitectPro](/images/aws-solutions-architect-profesionnal.png =50x50)
-![DevOps](/images/aws-devops-engineer.png =50x50)
-![Network](/images/aws-advanced-networking.png =50x50)
-![Security](/images/aws-security.png =50x50)
-![Data](/images/aws-big-data.png =50x50)
+![CloudPractitioner](/images/aws-cloud-practitioner.png)
+![Developer](/images/aws-developer.png)
+![SysOps](/images/aws-sysops-administrator.png)
+![SolutionArchitectAssociate](/images/aws-solutions-architect-associate.png)
+![SolutionArchitectPro](/images/aws-solutions-architect-profesionnal.png)
+![DevOps](/images/aws-devops-engineer.png)
+![Network](/images/aws-advanced-networking.png)
+![Security](/images/aws-security.png)
+![Data](/images/aws-big-data.png)
 
 # Experience
 
