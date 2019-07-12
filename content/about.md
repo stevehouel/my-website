@@ -22,7 +22,7 @@ I am a #AWS #All9 certified Cloud Architect at Ippon Technologies. My field of e
 
 **Senior Cloud Architect - Global Technical Leader** - *Ippon Technologies Since February 2017*
 
-- Global Technical Leader*:
+- *Global Technical Leader*:
   - Manage internal DevOps & Cloud community worldwide
   - Improve AWS Partnership (Earn Lambda & APIGateway Service Provider status, work on Data & Analytics Competency)
   - Share knowledge internally and externaly (Meetup, Events, Conference)
