@@ -19,9 +19,9 @@ disqusShortname = "yourdiscussshortname"
     author = "Steve Houël"
     description = "Steve Houël's personal website"
     keywords = "blog,developer,personal,resume"
-    info = "Senior DevOps Cloud Architect and Magician"
+    info = "Senior Cloud Architect and Magician"
     avatarurl = "images/me_4.png"
-    footercontent = "Enter a text here."
+    footercontent = "Done is better than Perfect"
 
     dateformat = "March 1, 2009"
 
@@ -70,17 +70,17 @@ disqusShortname = "yourdiscussshortname"
         weight = 1
         url = "/about/"
 
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2
-        url = "/blog/"
+        #[[languages.en.menu.main]]
+        #name = "Blog"
+        #weight = 2
+        #url = "/blog/"
 
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/projects/"
+        #[[languages.en.menu.main]]
+        #name = "Projects"
+        #weight = 3
+        #url = "/projects/"
 
-        [[languages.en.menu.main]]
-        name = "Contact me"
-        weight = 5
-        url = "/contact/"
+        #[[languages.en.menu.main]]
+        #name = "Contact me"
+        #weight = 5
+        #url = "/contact/"
