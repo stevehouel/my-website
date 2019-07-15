@@ -51,8 +51,7 @@ February - June 2017 - EDFSenior Solution Architect * Support and implementation
 
 **Technical Leader** - *Astek September 2010 to September 2013  Full-time Lyon France*
 
-**Developer**
-Syple Technologies September 2009 to August 2010  Full-time Sydney Australia
+**Developer** - *Syple Technologies September 2009 to August 2010  Full-time Sydney Australia*
 
 **Security engineer** - *Exaprobe October 2007 to July 2009  Apprenticeship Lyon France*
 
