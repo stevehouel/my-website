@@ -70,17 +70,17 @@ disqusShortname = "yourdiscussshortname"
         weight = 1
         url = "/about/"
 
-        #[[languages.en.menu.main]]
-        #name = "Blog"
-        #weight = 2
-        #url = "/blog/"
+        [[languages.en.menu.main]]
+        name = "Publications"
+        weight = 2
+        url = "/publications/"
 
-        #[[languages.en.menu.main]]
-        #name = "Projects"
-        #weight = 3
-        #url = "/projects/"
+        [[languages.en.menu.main]]
+        name = "Events"
+        weight = 3
+        url = "/events/"
 
-        #[[languages.en.menu.main]]
-        #name = "Contact me"
-        #weight = 5
-        #url = "/contact/"
+        [[languages.en.menu.main]]
+        name = "Projects"
+        weight = 4
+        url = "/projects/"

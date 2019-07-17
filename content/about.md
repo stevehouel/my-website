@@ -41,7 +41,7 @@ I am a #AWS #All9 certified Cloud Architect at Ippon Technologies. My field of e
   - Security
   - Reliability
 
-Some sample experience :*Airbus - 6 months*
+Some sample experience: *Airbus - 6 months*
 
 Consulting and build of the technical architecture of the Airbus Public Cloud Platform on AWS. This platform aims to provide necessary tools for Airbus projets to land properly into the cloud while meeting Airbus security, connectivity and automation requirements#Serverless Evangelist
 July - December 2017 - AttestationLégale* Consulting in microservices architecture* Helps company to transform his legacy SI into a fully managed infrastructure on AWS
@@ -54,22 +54,3 @@ February - June 2017 - EDFSenior Solution Architect * Support and implementation
 **Developer** - *Syple Technologies September 2009 to August 2010  Full-time Sydney Australia*
 
 **Security engineer** - *Exaprobe October 2007 to July 2009  Apprenticeship Lyon France*
-
-# Publications
-
-## Articles
-- [Les architectures Serverless](https://blog.ippon.fr/2017/06/09/les-architectures-serverless/)
-- [Comment faire du Serverless](https://blog.ippon.fr/2017/10/10/how-to-do-serverless/)
-- [L'observabilité appliqué au Serverless](https://blog.ippon.fr/2019/05/07/lobservabilite-applique-au-serverless/)
-
-## WhitePaper
-- [Les architectures Serverless - De la théorie à la pratique](https://fr.ippon.tech/architecture-serverless-de-la-theorie-a-la-pratique-mai-2019/)
-
-## Magazine
-- [Programmez.com - 230](https://www.programmez.com/magazine/article/architecture-serverless-de-la-theorie-la-pratique)
-- [Programmez.com - 231](https://www.programmez.com/magazine/article/lobservabilite-appliquee-au-serverless)
-
-## Video
-- [To be or not to be Serverless](https://www.youtube.com/watch?v=BdUddlUAADY&t=690s-
-- [Observability applied to Serverless](https://www.youtube.com/watch?v=L4YHSv-5OlM)
-- [Instant conseil](https://www.youtube.com/watch?v=HjhxW7sYD88)
