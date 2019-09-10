@@ -20,3 +20,4 @@ slug = "events"
 
 # 2017
 - June 27 - *Lyon* - To be or not to be Serverless
+- September 14 - *Paris* - To be or not to be Serverless
