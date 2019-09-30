@@ -17,6 +17,7 @@ slug = "publications"
 - [Programmez.com 231 - L'observabilité appliquée au Serverless partie 1/2](https://www.programmez.com/magazine/article/lobservabilite-appliquee-au-serverless)
 - [Programmez.com 232 - Les architectures Serverless partie 2/3](https://www.programmez.com/magazine/article/architecture-serverless-de-la-theorie-la-pratique-2/3)
 - [Programmez.com 232 - L'observabilité appliquée au Serverless partie 2/2](https://www.programmez.com/magazine/article/lobservabilite-appliquee-au-serverless-0)
+- [Programmez.com 233 - Les architectures Serverless partie 3/3](https://www.programmez.com/magazine/article/architecture-serverless-de-la-theorie-la-pratique-3/3)
 
 # Video
 - [To be or not to be Serverless](https://www.youtube.com/watch?v=BdUddlUAADY)
